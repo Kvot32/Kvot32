@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kvot32
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on i dont undestend
+- 💞️ I’m looking to collaborate on i dont know
 - 📫 How to reach me tg: jimmy_2_metra
 
 <!---
