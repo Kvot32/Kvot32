@@ -6,7 +6,6 @@ I'm [Kvot32](https://github.com/Kvlot32), a passionate Python developer.
 
 - 👨‍💻 I'm currently working on various Python projects.
 - 🌱 I'm constantly learning new things and improving my skills.
-- 💻 I love to collaborate on open source projects and contribute to the community.
 - 📫 -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    You can reach me on Telegram: [jimmy_2_metra](https://t.me/jimmy_2_metra)
 
 ## Skills
