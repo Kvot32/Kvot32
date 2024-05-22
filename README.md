@@ -23,5 +23,5 @@ Here are some of my recent projects:
 
 - [Project 1](https://github.com/Kvot32/foodgram-project-react)
 - [Project 2](https://github.com/Kvot32/api_final_yatube)
-- [Project 3](https://github.com/Kvot32/crm_realty)
+- [Project 3](https://github.com/Kvot32/crm_realty) - *This project is currently in development.*
 
